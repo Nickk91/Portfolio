@@ -1,5 +1,5 @@
 import React from "react";
-import Card from "./card";
+import Card from "./Card";
 import "./CardSection.css";
 import "./Card.css";
 import diceImg from "./images/Dice.jpg";
